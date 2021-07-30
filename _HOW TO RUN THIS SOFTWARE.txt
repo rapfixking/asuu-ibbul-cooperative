@@ -1,0 +1,28 @@
+============BUILD OUTPUT DESCRIPTION=============
+
+Please read this before using this software
+
+The software is live and interacts with database. The host computer must have a running local server(WAMP or XAMPP) before it will work.
+
+RUNNING THE APP
+
+1. Put on your local server. 
+
+2. Copy staff_cooperative folder to C:/wamp/www If you're using wamp, or to   C:/xampp/htdocs If you're using xampp,
+
+3. Open your browser and go to localhost/phpmyadmin
+
+4. Click on import then select the cooperative.sql file in db folder
+
+5. To run the app, go to localhost/staff_cooperative/login
+
+For users to use the app, they ,must first fill the application form, sign up then sign in.
+
+ADMIN LOGIN
+Username: YCT/ACA/COP/08015
+Password: pass
+
+
+Any issues? Contact https://iproject.com.ng or call developer +2348160417161
+    
+
